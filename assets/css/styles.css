@@ -6,6 +6,7 @@
 
 .h1-container {
     padding: 4px;
+	
 }
 
 .form-container {
@@ -59,6 +60,7 @@
 
 .current-title-container {
     display: flex;
+	background-color: peachpuff;
 }
 
 .current-title {
