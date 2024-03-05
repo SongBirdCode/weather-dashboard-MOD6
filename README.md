@@ -1,17 +1,56 @@
 # 06-Server-Side-APIs-Weather-Dashboard
 
-A Weather Dashboard
+## Description & Goal
 
-The goal of this site is to create a weather dashboard that will present the user with todays current weather data and then a future five day forecast. It will also store the past search results allowing the user to select them and see that cities weather data again.  
+A simple, in browser, calendar application that allows a user to save events for each hour of a standard working day ( 9am - 5pm )
 
-To use the dashboard type the name of a city in the search box and select the spyglass. As you search the city will be saved to a list allowing you to select them again for viewing.   
+The app will utilize updated HTML and CSS that is powered by jQuery.
 
-Below is a screen shot of the weather dashboard:
+The following is a Mock Up demo application of functionality:
 
-![The finished Weather Dashboard](assets/images/Weather-Dashboard.png)
+<img src="Assets/05-third-party-apis-homework-demo.gif">
 
-Below is a link to the site:
 
-https://codyg-2021.github.io/06-Server-Side-APIs-Weather-Dashboard/
+## Result
 
-![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
+Here are images to show the resulting Work Day Scheduler followed by deployed website and repository.
+
+<img src="Assets/result1.png">
+
+<img src="Assets/result2.png">
+
+
+Deployed Website: https://songbirdcode.github.io/Work-Day-Scheduler-Web-APIs-MOD5/
+
+Repository Website: https://github.com/SongBirdCode/Work-Day-Scheduler-Web-APIs-MOD5
+
+An executed UI friendly, simple work day scheduler with functions to add task items, see Past, Present and future items insync with current day/time requirements. 
+
+## Usage
+
+All materials should be present within repository. 
+
+## Credits
+
+All contributions are from me, github.com/songbirdcode.
+
+All can be adjusted as required as I continue to learn and grow. As we face more group projects, I will add more here. 
+
+I used sources from reading developer.mozilla.org, https://jqueryui.com/, w3schools.com, along with materials presented within our bootcamp revolving around Web based APIs.
+
+## License
+
+MIT License © 2023 Songbirdcode
+---
+
+## Badges
+
+No Badges for this project. 
+
+## Features
+
+HTML, CSS, JQuery, Bootstrap all utilized within UI
+
+## Tests
+
+Multiple Checks between VS Code, In browser, and Github, including functionality post deployment of website have been taken. 
