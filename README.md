@@ -15,7 +15,7 @@ Example given to follow:
 A user friendly weather dashboard that utilizes local storage for previous searches and informs user of weather updates. 
 
 Here is a preview of final work: 
-<img src="assets/images/Screenshot 2024-03-05 at 5.56.53 PM.png>
+<img src="assets/images/Screenshot 2024-03-05 at 5.56.53 PM.png">
 
 Here is the link to Repository: https://github.com/SongBirdCode/weather-dashboard-MOD6
 
