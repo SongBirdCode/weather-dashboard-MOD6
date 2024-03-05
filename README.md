@@ -17,9 +17,14 @@ A user friendly weather dashboard that utilizes local storage for previous searc
 Here is a preview of final work: 
 <img src="assets/images/Screenshot 2024-03-05 at 5.56.53 PM.png>
 
+Here is the link to Repository: https://github.com/SongBirdCode/weather-dashboard-MOD6
+
+Here is the link to deployed website: https://songbirdcode.github.io/weather-dashboard-MOD6/
+
+
 ## Usage
 
-                                           `All materials should be present within repository. 
+ All materials should be present within repository. 
 
 ## Credits
 
