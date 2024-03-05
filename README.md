@@ -2,29 +2,11 @@
 
 ## Description & Goal
 
-A simple, in browser, calendar application that allows a user to save events for each hour of a standard working day ( 9am - 5pm )
-
-The app will utilize updated HTML and CSS that is powered by jQuery.
-
-The following is a Mock Up demo application of functionality:
-
-<img src="Assets/05-third-party-apis-homework-demo.gif">
 
 
 ## Result
 
-Here are images to show the resulting Work Day Scheduler followed by deployed website and repository.
 
-<img src="Assets/result1.png">
-
-<img src="Assets/result2.png">
-
-
-Deployed Website: https://songbirdcode.github.io/Work-Day-Scheduler-Web-APIs-MOD5/
-
-Repository Website: https://github.com/SongBirdCode/Work-Day-Scheduler-Web-APIs-MOD5
-
-An executed UI friendly, simple work day scheduler with functions to add task items, see Past, Present and future items insync with current day/time requirements. 
 
 ## Usage
 
@@ -40,7 +22,7 @@ I used sources from reading developer.mozilla.org, https://jqueryui.com/, w3scho
 
 ## License
 
-MIT License © 2023 Songbirdcode
+MIT License © 2024 Songbirdcode
 ---
 
 ## Badges
